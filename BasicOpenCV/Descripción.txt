@@ -1,5 +1,0 @@
-En esta carpeta se encuentra materia de funcionamiento básico de la librería OpenCV, todos los programas realizados cuentan con su respectivo material para realizar las pruebas en imágenes, están programados en lenguaje python por mi autoría para entender el funcionamiento de las funcionalidades.
-Puedes hacer fork para que puedas practicar moviendo los valores que desees sin miedo. 
-Cada línea de los diferentes sistemas se encuentra comentada para facilitar el entendimiento de las mismas.
-
-Estos sistemas se encuentran desarrollados por mi autoría.
